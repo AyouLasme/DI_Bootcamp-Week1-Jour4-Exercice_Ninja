@@ -1,0 +1,27 @@
+.banner-image{
+    background-image: url("https://images.pexels.com/photos/2422281/pexels-photo-2422281.jpeg?cs=srgb&dl=pexels-jopwell-2422281.jpg&fm=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+sub{
+    color: #badc58 !important;
+}
+
+.home{
+    border-bottom: 1px solid yellowgreen;
+}
+
+.border{ 
+    background-color:yellowgreen !important ;
+}
+
+.boutton-submit{
+    background-color:yellowgreen  ;
+    color: white;
+}
+
+.i_people{
+    color: yellowgreen !important;
+}
